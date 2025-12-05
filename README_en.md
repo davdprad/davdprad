@@ -89,11 +89,6 @@ IoT system for remote monitoring of air humidity with health applications.
 
 <h3 align="center">Always learning, always building, always growing.</h3>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15aabf,100:4c6ef5&height=140&section=footer" />
 </div>
-
-
----
