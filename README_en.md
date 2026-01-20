@@ -22,7 +22,7 @@
 ## 🌐 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidprado0113@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidyanprado)
+[![LinkedIn](https://img.shields.io/badge/in%20LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/davidyanprado)
 [![GitHub](https://img.shields.io/badge/Github-F25081?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davdprad)
 
 ---
@@ -73,10 +73,7 @@ IoT system for remote monitoring of air humidity with health applications.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=davdprad&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=davdprad&layout=compact&theme=tokyonight" />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davdprad&theme=chartreuse_dark)
 
 ---
 
