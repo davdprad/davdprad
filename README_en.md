@@ -21,9 +21,9 @@
 
 ## 🌐 Contact
 
-📧 [Email](mailto:davidprado0113@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/davidyanprado)  
-💻 [GitHub](https://github.com/davdprad)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidprado0113@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidyanprado)
+[![GitHub](https://img.shields.io/badge/Github-F25081?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davdprad)
 
 ---
 
