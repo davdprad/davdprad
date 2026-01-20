@@ -19,6 +19,14 @@
 
 ---
 
+## 🌐 Contact
+
+📧 [Email](mailto:davidprado0113@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/davidyanprado)  
+💻 [GitHub](https://github.com/davdprad)
+
+---
+
 ## 🚀 About Me  
 I am a software developer with hands-on experience in **Python, SQL, APIs, LLM integrations, RAG pipelines, data analysis, and web development**.  
 Currently working as an intern at **Sidia Institute of Science and Technology**, applying AI and engineering practices to real-world problems.
@@ -76,14 +84,6 @@ IoT system for remote monitoring of air humidity with health applications.
 - **Software Engineering – UFAM** (6th semester)  
 - **Technical Degree in Mechatronics – Fundação Matias Machline**  
   - FEBRACE national finalist  
-
----
-
-## 🌐 Contact
-
-📧 Email: **davidprado0113@gmail.com**  
-🔗 LinkedIn: **https://linkedin.com/in/davidyanprado**  
-💻 GitHub: **https://github.com/davdprad**
 
 ---
 
