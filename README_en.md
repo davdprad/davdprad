@@ -1,91 +1,122 @@
-<p align="center">
-  <a href="README_en.md">
-    <img src="https://img.shields.io/badge/US_ENGLISH-0A2F5E?style=for-the-badge" alt="English"/>
-  </a>
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/BR_PORTUGUÊS-00972D?style=for-the-badge" alt="Português"/>
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c6ef5,100:15aabf&height=180&section=header&text=David%20Prado&fontSize=50&fontColor=ffffff" />
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/BR%20Português-069B84?style=for-the-badge" alt="Português"/>
+  </a>
+  <a href="./README_en.md">
+    <img src="https://img.shields.io/badge/US%20English-017a65?style=for-the-badge" alt="English"/>
+  </a>
 </div>
 
-# 👋 Hello! I'm David Prado
+<br/>
 
-🎓 Software Engineering student at UFAM  
-🤖 AI & Software Developer  
-🚀 LLMs, RAG pipelines, Python and data-driven solutions  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03FED1,50:029e83,100:017a65&height=200&section=header&text=David%20Prado&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Developer&descAlignY=58&descSize=20&descColor=d0ffef&animation=fadeIn" />
+</div>
 
----
+<br/>
 
-## 🌐 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidprado0113@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/in%20LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/davidyanprado)
-[![GitHub](https://img.shields.io/badge/Github-F25081?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davdprad)
-
----
-
-## 🚀 About Me  
-I am a software developer with hands-on experience in **Python, SQL, APIs, LLM integrations, RAG pipelines, data analysis, and web development**.  
-Currently working as an intern at **Sidia Institute of Science and Technology**, applying AI and engineering practices to real-world problems.
-
----
-
-## 🧠 Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![SQL_Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-
-### Artificial Intelligence
-![LLMs](https://img.shields.io/badge/LLMs-OpenAI/HF-blue?logo=openai)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-orange)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-
-### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+<div align="center">
+  <a href="https://davidprado-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-069B84?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:davidprado0113@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/davidyanprado" target="_blank">
+    <img src="https://img.shields.io/badge/IN%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
 ---
 
-## ⭐ Featured Projects
+## 👨‍💻 About Me
+```python
+class DavidPrado:
+    role       = "Software Developer · Web & Mobile"
+    university = "Software Engineering – UFAM (7th semester)"
+    company    = "Sidia Institute of Innovation and Technology"
+    focus      = ["Web Full Stack", "Mobile", "RAG Pipelines", "Intelligent Automation"]
+    portfolio  = "https://davidprado-portfolio.vercel.app/"
+    open_to    = "Opportunities in Web, Mobile & Automation"
+```
 
-### 🔹 RAG Pipeline for Internal Chatbot – Sidia  
-Improved contextual search using regex, TF-IDF, BM25 integrated with LLMs.
+Passionate developer who loves turning ideas into real solutions — with hands-on experience in **Web, Mobile and Automation**. I build modern interfaces, apply intelligent automations and extract value from data to create products that truly make a difference.
 
-### 🔹 Project Management Web System  
-Full Stack app built with **React + FastAPI + PostgreSQL**, containerized with Docker.
+---
 
-### 🔹 Smart Humidity Monitoring System (FEBRACE Finalist)  
-IoT system for remote monitoring of air humidity with health applications.
+## 🚀 Tech Stack
+
+### 🔧 Languages & Frameworks
+
+<div align="start">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
+
+### 🤖 Artificial Intelligence & Data
+
+<div align="start">
+
+![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20%7C%20HF-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-FF4500?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### 🛢️ Databases
+
+<div align="start">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+### ⚙️ DevOps & Tools
+
+<div align="start">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davdprad&theme=chartreuse_dark)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davdprad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davdprad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davdprad&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
 
 ---
-
-## 🎓 Education  
-- **Software Engineering – UFAM** (6th semester)  
-- **Technical Degree in Mechatronics – Fundação Matias Machline**  
-  - FEBRACE national finalist  
-
----
-
-<h3 align="center">Always learning, always building, always growing.</h3>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15aabf,100:4c6ef5&height=140&section=footer" />
+  <i>💡 "Always learning, always building, always evolving"</i>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03FED1,50:029e83,100:017a65&height=140&section=footer" />
 </div>
