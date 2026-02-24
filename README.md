@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://davidprado-portfolio.vercel.app/" target="_blank">
+  <a href="https://davdprad.github.io/davidprado-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-069B84?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:davidprado0113@gmail.com">
@@ -37,7 +37,7 @@ class DavidPrado:
     university = "Engenharia de Software – UFAM (7º período)"
     company    = "Sidia Instituto de Inovação e Tecnologia"
     focus      = ["Web Full Stack", "Mobile", "RAG Pipelines", "Automação Inteligente"]
-    portfolio  = "https://davidprado-portfolio.vercel.app/"
+    portfolio  = "https://davdprad.github.io/davidprado-portfolio/"
     open_to    = "Oportunidades em Web, Mobile & Automações"
 ```
 
